@@ -1,7 +1,5 @@
 # seamCarving
 
-Seam Carving has so far been my favorite in-class project in my high school CS career. It perfectly expresses my love for using algorithms to alter different things visually. 
-
 There are five functions in this program: gradientEnergize, drawEnergy, findSeam, drawSeam, and carve.
 
 gradientEnergize contains the process of generating energy values to create a 2D Array table of integers, corresponding to the image. 
